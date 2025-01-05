@@ -1,0 +1,2 @@
+# Uplifted
+This is an old project that I dropped. The repo serves as a showcase of code. There are not many notable scripts other than the [player controller](player/Controller.cs) which is documented with XML.
